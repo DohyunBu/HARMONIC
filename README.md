@@ -109,4 +109,3 @@ torchvision==0.20.1+cu118
 * **PINNacle** (excluding Volterra): Download via `https://github.com/i207M/PINNacle`.
 * **A-PINN**: Using IDE via `https://github.com/YUANLei2021/A-PINN`.
 
----
