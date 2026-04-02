@@ -2,6 +2,11 @@
 
 This repository provides the implementation of the paper **"[Harmonized Cone for Feasible and Non-conflict Directions in Training Physics-Informed Neural Networks](https://iclr.cc/virtual/2026/poster/10009677)"**.
 
+<p align="center"> 
+  <img src="POSTER - HARMONIC.png"/> 
+</p>
+
+
 ---
 
 ### Table of Contents
